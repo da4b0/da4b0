@@ -81,7 +81,7 @@
 
 ## Connect With Me
 
-- LinkedIn: [Yassin Eid](https://www.linkedin.com/in/yassin-eid/)
+- LinkedIn: [Yassin Salem](https://www.linkedin.com/in/yassin-salem/)
 - Portfolio: [My Portfolio](https://yassin-salem.vercel.app/)
 - GitHub: [@da4b0](https://github.com/da4b0)
 - Company: [Debugz](https://debug-z-seven.vercel.app/)
